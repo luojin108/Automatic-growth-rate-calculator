@@ -3,7 +3,7 @@ The calculator can determine the linear part of a growth curve automatically and
 
 The class autoMuCalculator is a wrapper containing 2 functions. 
 
-The first function is muCalculate(), which is is developed based on the idea from \[1\]. The function calculates a specific growth rate as slope from ln-transformed vector of biomass signals. Data vectors are iteratively cropped until severa stopping criteria are met in order to extract the data subset orginating from the exponential growth phase.
+The first function is muCalculate(), which is is developed based on the idea from \[1\]. The function calculates a specific growth rate as slope from log-transformed vector of biomass signals. Data vectors are iteratively cropped until severa stopping criteria are met in order to extract the data subset orginating from the exponential growth phase.
 
 The second function is calculateMuInBatch(), which calculates the specific growth rates in batch mode. There is an option to generate plots of growth and logarithmic growth for result-inspecting purpose.
 
