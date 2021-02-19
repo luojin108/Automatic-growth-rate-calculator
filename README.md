@@ -1,5 +1,5 @@
 # Automatic-growth-rate-calculator
-The calculator can determine the linear part of a growth curve automatically and calculate the specific growth rate for multiple growth curve in batch mode.
+The calculator can determine the linear part of a growth curve automatically and calculate the specific growth rate for multiple growth curves in batch mode.
 
 The class autoMuCalculator is a wrapper containing 2 functions. 
 
